@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JLYnumnD)
-# Program de gestionare a unei biblioteci
+
+# Biblioteca virtuala in java
 ### Student: Bărbăscu Raul Andrei
 
 ## Descriere
@@ -16,14 +16,6 @@ Obiectivele mele pentru acest proiect sunt de a implementa următoarele funcțio
     - Retur carte
 * Adăugare/Ștergere cărți (un bibliotecar poate adăuga/șterge o carte, alături de toate detaliile ei, în baza de date)
 
-## Arhitectura
-Clasele utilizate vor fi: 
-* Carte= Cartea va avea atribute cum ar fi titlu, anul lansării, titlu etc.
-* Cititor= Cititorul va fi reprezentat prin nume, adresă (de email de exemplu), ID.
-* Bibliotecar= include numele, ID-ul și datele de contact ale bibliotecarilor.
-
-![Screenshot 2024-12-15 065828](https://github.com/user-attachments/assets/5bacb837-9c33-4069-9e9a-512057ac721e)
-
 
 Relațiile între clase vor fi ca atare:
 * Cititorul poate împrumuta cărți.
@@ -36,6 +28,4 @@ Relațiile între clase vor fi ca atare:
 * Sistemul trimite o notificare când data de returnare se apropie. (?)
 * Bibliotecarul introduce o nouă carte sau șterge o carte din baza de date.
 
-### Resurse
-Markdown Guide, [Online] Available: https://www.markdownguide.org/basic-syntax/ [accesed: Mar 14, 1706]
-De adăugat...
+
