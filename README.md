@@ -19,13 +19,12 @@ Obiectivele mele pentru acest proiect sunt de a implementa următoarele funcțio
 
 Relațiile între clase vor fi ca atare:
 * Cititorul poate împrumuta cărți.
-* Fiecare carte poate fi împrumutată de mai mulți utilizatori în timp, dar doar de unul singur la un moment dat.
-* Bibliotecarul poate modifica și verifica cărțile și utilizatorii lor.
+* Fiecare carte poate fi împrumutată de orice utilizator, de câte ori dorește, în limita stocului valabil.
+* Bibliotecarul poate adauga/elimina cărți din bibliotecă.
 
 ## Functionalitati/Exemple utilizare
 * Utilizatorul caută o carte și verifică disponibilitatea acesteia.
-* Bibliotecarul înregistrează un împrumut de carte pentru un utilizator.
-* Sistemul trimite o notificare când data de returnare se apropie. (?)
+* Utilizatorul lasă un review pentru o carte.
 * Bibliotecarul introduce o nouă carte sau șterge o carte din baza de date.
 
 
