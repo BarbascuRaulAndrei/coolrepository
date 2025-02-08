@@ -1,0 +1,4 @@
+carte1,autor1,2025,2,drama
+carte2,autor2,2024,4,actiune
+Moby Dick,Herman Melville,1851,5,roman
+Moby fara Dick,Herman Tulville,1581,3,roman
